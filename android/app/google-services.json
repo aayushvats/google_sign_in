@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761111298270",
+    "firebase_url": "https://signin-df6a3.firebaseio.com",
+    "project_id": "signin-df6a3",
+    "storage_bucket": "signin-df6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761111298270:android:bcbc89ef6e423f757c824f",
+        "android_client_info": {
+          "package_name": "com.aayush.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761111298270-4gv4ie8temdupni20r0scan5r49ham3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aayush.signin",
+            "certificate_hash": "26b2f6aed5007055498636b65d7531546f3ae0ee"
+          }
+        },
+        {
+          "client_id": "761111298270-34djp1cmdv9alb36btmqpgl2ehkh6iq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdiN16JD-qQiWqgHcQ4CGbQr-SMWoxiu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761111298270-34djp1cmdv9alb36btmqpgl2ehkh6iq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
